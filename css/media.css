@@ -1,0 +1,98 @@
+@media(max-width:415px) {
+    .box_img_card {}
+
+    .logo_block {
+        flex-direction: column;
+    }
+
+    .logo_block h1 {
+        font-size: 18px;
+        margin-top: 10px;
+    }
+
+    .menub {
+        display: none;
+    }
+
+
+    .section_que {
+        flex-direction: column;
+    }
+
+    .question__card p {
+        font-size: 16px;
+    }
+
+    .apps h2 {
+        font-size: 24px;
+    }
+
+    .video {
+        align-items: center;
+        margin-top: 5px;
+        height: 196px;
+    }
+
+    .video__app {
+        height: 100%;
+        border-radius: 20px;
+    }
+
+    .pusk {
+        width: 40px;
+        margin-top: 15px;
+    }
+
+    .cl {
+        display: none;
+    }
+
+    .apps_2 h2 {
+        font-size: 24px;
+    }
+
+    .apps_2 h4 {
+        font-size: 15px;
+    }
+
+    .apps_3 h2 {
+        font-size: 24px;
+    }
+
+    .box_img {
+        justify-content: space-around;
+    }
+
+    .apps_3 h4 {
+        font-size: 15px;
+    }
+
+    .apps_4 h2 {
+        font-weight: 600;
+        font-size: 24px;
+    }
+
+    .box_img_card img {
+        width: 33px
+    }
+
+    .footer {
+        display: block;
+    }
+
+    .footer h3 {
+        margin-top: 20px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .footer p {
+        font-size: 10px;
+    }
+}
+
+@media (min-width:415px) {
+    .burger_menu {
+        display: none;
+    }
+}
